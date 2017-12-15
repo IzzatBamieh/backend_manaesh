@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "P@ssw0rd",
+    "database": "manaesh",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "P@ssw0rd",
+    "database": "manaesh",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "pbajgtulmvmuta",
+    "password": "c5202ba6a2d2b4c4e4711a37e0d9778c3e9a16d4b63a66e6d4d3fa17c723b6c0",
+    "database": "dbiihg5pbr3tif",
+    "host": "ec2-54-235-244-185.compute-1.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
